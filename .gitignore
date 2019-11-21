@@ -2,3 +2,5 @@
 .DS_Store
 test.csv
 train.csv
+.ipynb_checkpoints/GM1-notebook-checkpoint.ipynb
+.ipynb_checkpoints/Generate_mini_data-checkpoint.ipynb
