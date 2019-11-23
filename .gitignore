@@ -4,3 +4,7 @@ test.csv
 train.csv
 .ipynb_checkpoints/GM1-notebook-checkpoint.ipynb
 .ipynb_checkpoints/Generate_mini_data-checkpoint.ipynb
+data/sample_submission.csv
+.ipynb_checkpoints/AM_w207_final_adapted_notebook-checkpoint.ipynb
+.ipynb_checkpoints/KH-notebook-checkpoint.ipynb
+.ipynb_checkpoints/HelperFunctions-checkpoint.ipynb
