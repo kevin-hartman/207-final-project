@@ -9,3 +9,5 @@ data/sample_submission.csv
 .ipynb_checkpoints/KH-notebook-checkpoint.ipynb
 .ipynb_checkpoints/HelperFunctions-checkpoint.ipynb
 .ipynb_checkpoints/data_wrangling-checkpoint.ipynb
+data/train_data_clean.csv
+data/train_labels.csv
