@@ -11,3 +11,4 @@ data/sample_submission.csv
 .ipynb_checkpoints/data_wrangling-checkpoint.ipynb
 data/train_data_clean.csv
 data/train_labels.csv
+data/train_ids.csv
