@@ -14,3 +14,5 @@ data/train_labels.csv
 data/train_ids.csv
 .ipynb_checkpoints/GM-KH-notebook-checkpoint.ipynb
 data/train_clean.csv
+data/test_clean.csv
+.ipynb_checkpoints/data_wrangling_test_data-checkpoint.ipynb
