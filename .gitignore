@@ -24,3 +24,18 @@ data/mini_initial_test.csv
 data/dev_clean.csv
 data/dev_labels.csv
 data/test_labels.csv
+.ipynb_checkpoints/KH-notebook 2-checkpoint.ipynb
+data/archive/__mini_initial.csv
+data/archive/_mini_initial.csv
+data/archive/mini_dev.csv
+data/archive/mini_initial.csv
+data/archive/mini_test.csv
+data/archive/mini_train.csv
+data/archive/mini_train_encoded.csv
+data/archive/train_clean.csv
+data/archive/train_ids.csv
+data/archive/train_labels.csv
+data/New Folder With Items/mini_dev.csv
+data/New Folder With Items/mini_initial.csv
+data/New Folder With Items/mini_test.csv
+data/New Folder With Items/mini_train.csv
