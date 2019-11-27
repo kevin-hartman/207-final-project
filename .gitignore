@@ -18,3 +18,6 @@ data/test_clean.csv
 .ipynb_checkpoints/data_wrangling_test_data-checkpoint.ipynb
 .ipynb_checkpoints/encoding-checkpoint.ipynb
 
+data/mini_initial.csv
+data/mini_initial.csv
+data/mini_initial_test.csv
