@@ -40,3 +40,7 @@ data/New Folder With Items/mini_initial.csv
 data/New Folder With Items/mini_test.csv
 data/New Folder With Items/mini_train.csv
 .ipynb_checkpoints/Analysis-checkpoint.ipynb
+data/real_test_clean.csv
+data/mini_dev_clean.csv
+data/mini_test_clean.csv
+data/mini_train_clean.csv
