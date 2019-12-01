@@ -69,3 +69,4 @@ data/mini_dev_clean.csv
 .ipynb_checkpoints/encoding_gm-checkpoint.ipynb
 .ipynb_checkpoints/GM-logreg-checkpoint.ipynb
 .ipynb_checkpoints/KH-notebook_GM-checkpoint.ipynb
+.train_data_clean.csv.icloud
