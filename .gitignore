@@ -65,3 +65,7 @@ data.nosync/mini_train_clean.csv
 data.nosync/sample_submission.csv
 data.nosync/test_clean.csv
 data.nosync/train_clean.csv
+data/mini_dev_clean.csv
+.ipynb_checkpoints/encoding_gm-checkpoint.ipynb
+.ipynb_checkpoints/GM-logreg-checkpoint.ipynb
+.ipynb_checkpoints/KH-notebook_GM-checkpoint.ipynb
