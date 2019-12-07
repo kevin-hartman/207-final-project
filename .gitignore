@@ -72,3 +72,4 @@ data/mini_dev_clean.csv
 .train_data_clean.csv.icloud
 .ipynb_checkpoints/AM-pytorch-ops-GM-checkpoint.ipynb
 .ipynb_checkpoints/pytorch-deep-learningGM-checkpoint.ipynb
+.ipynb_checkpoints/pytorch_chunked-checkpoint.ipynb
